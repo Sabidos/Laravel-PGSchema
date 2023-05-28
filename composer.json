@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=8.0.2",
-        "illuminate/support": "^v9.27"
+        "php": ">=8.0",
+        "illuminate/support": "^v9.52"
     },
     "autoload": {
         "psr-0": {
